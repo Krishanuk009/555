@@ -1,0 +1,80 @@
+name: Update IPTV Playlists
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-playlist-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate playlists
+        run: python scripts/update_playlists.py
+
+      - name: Show output status
+        if: always()
+        run: |
+          echo "M3U outputs:"
+          find playlists -maxdepth 1 -type f -name '*.m3u' -printf '%f %s bytes\n' | sort
+          echo
+          echo "JSON outputs:"
+          find data -maxdepth 1 -type f -name '*.json' -printf '%f %s bytes\n' | sort || true
+
+      - name: Commit changed outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add playlists/*.m3u data/*.json config/providers.json
+
+          if git diff --cached --quiet; then
+            echo "No output changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update IPTV outputs"
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || {
+              echo "Rebase failed."
+              git rebase --abort || true
+              exit 1
+            }
+
+            if git push origin HEAD:main; then
+              echo "Push succeeded."
+              exit 0
+            fi
+
+            echo "Push failed; retrying in 5 seconds..."
+            sleep 5
+          done
+
+          echo "Unable to push after 5 attempts."
+          exit 1
+          
