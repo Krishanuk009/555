@@ -1,0 +1,47 @@
+{
+  "description": "Provider/output map for the unified updater.",
+  "generated_outputs": {
+    "jtv.m3u": "streamstar",
+    "jtv2.m3u": "jtv2_json",
+    "jtv3.m3u": "sixpg (Kodi conversion)",
+    "jtv4.m3u": "alex",
+    "jtv5.m3u": "ayush",
+    "jtvplus.m3u": "stbplus",
+    "jtvplus2.m3u": "jtvplus2",
+    "jtvplus3.m3u": "geoplus + biscuit + sportsbiscuit",
+    "jtvplus4.m3u": "alex_plus",
+    "jtvplus5.m3u": "premium_vip",
+    "jtvplus6.m3u": "qwerty180506/Geo/jiotv_cf.m3u (Kodi conversion)",
+    "jtvplus7.m3u": "sixpg (Kodi conversion)",
+    "jtvplus8.m3u": "stbplus_mobile",
+    "mixiptv.m3u": "premium_vip",
+    "playlist.m3u": "fusion",
+    "pocket.m3u": "pocket",
+    "Star.m3u": "sports_json",
+    "Star2.m3u": "sixpg (Star Sports filter)",
+    "Star3.m3u": "premium_vip (Star Sports filter)",
+    "hotstar.m3u": "premium_hot",
+    "digital.m3u": "premium_hot (Digital filter)"
+  },
+  "json_outputs": {
+    "data/cookie.json": "first channel cookie from sports_json",
+    "data/star.json": "JioTV Star Sports extracted from premium_vip",
+    "data/star2.json": "JioTV Star Sports extracted from sayan_star"
+  },
+  "static_snapshot_outputs": [
+    "IPL2026.m3u",
+    "Sport.m3u",
+    "Sports.m3u",
+    "Tnt.m3u",
+    "airteltv.m3u",
+    "sony.m3u",
+    "sony2.m3u",
+    "sony3.m3u",
+    "sony4.m3u",
+    "sports.m3u",
+    "sun.m3u",
+    "waves.m3u",
+    "zee.m3u",
+    "zee2.m3u"
+  ]
+}
