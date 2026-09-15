@@ -2,289 +2,289 @@
 #EXTINF:-1 tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports Select 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_1_BTS%2FWDVLive%2F*~hmac%3D56ca7d1195036f76db4ca5d65a3772decc7c95c69c9290ce0150feb9082a292f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_1_BTS%2FWDVLive%2F*~hmac%3D09da9a22071e231a030e7f27097741d9419e6fc4913164b5d77e731317bb0ff6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=56ca7d1195036f76db4ca5d65a3772decc7c95c69c9290ce0150feb9082a292f
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=56ca7d1195036f76db4ca5d65a3772decc7c95c69c9290ce0150feb9082a292f"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=09da9a22071e231a030e7f27097741d9419e6fc4913164b5d77e731317bb0ff6
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=09da9a22071e231a030e7f27097741d9419e6fc4913164b5d77e731317bb0ff6"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1123" tvg-name="Star Sports Select 1" tvg-logo="https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports Select 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_Select_1_BTS%2FWDVLive%2F*~hmac%3Da1cb920ce13d5d9edd656c11b0446ca373cc0978291f378423d55a531578fb7a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_Select_1_BTS%2FWDVLive%2F*~hmac%3Deca3c9d7c7089c81bf4f5a0eb51d71f3c6824e9918ca6a4d0988610f295eabb8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=a1cb920ce13d5d9edd656c11b0446ca373cc0978291f378423d55a531578fb7a
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=a1cb920ce13d5d9edd656c11b0446ca373cc0978291f378423d55a531578fb7a"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=eca3c9d7c7089c81bf4f5a0eb51d71f3c6824e9918ca6a4d0988610f295eabb8
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=eca3c9d7c7089c81bf4f5a0eb51d71f3c6824e9918ca6a4d0988610f295eabb8"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="461" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports Select 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_2_BTS%2FWDVLive%2F*~hmac%3D13ac55a202d2ad0af1e1c91566e1bbe3e5558741b334c03919cbacd6abc9759f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_2_BTS%2FWDVLive%2F*~hmac%3D43979bbb41c1eac14bbff1280bbefa3ae46a31823bdd2e0581813bebd81ea89c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=13ac55a202d2ad0af1e1c91566e1bbe3e5558741b334c03919cbacd6abc9759f
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=13ac55a202d2ad0af1e1c91566e1bbe3e5558741b334c03919cbacd6abc9759f"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=43979bbb41c1eac14bbff1280bbefa3ae46a31823bdd2e0581813bebd81ea89c
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=43979bbb41c1eac14bbff1280bbefa3ae46a31823bdd2e0581813bebd81ea89c"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1114" tvg-name="Star Sports Select 2" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports Select 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_Select_2_BTS%2FWDVLive%2F*~hmac%3D2116ee5c7bc84de6ce90a9621be348635500ecbb469d22bc51e9cfb651e4716f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_Select_2_BTS%2FWDVLive%2F*~hmac%3D72e2d8786408406b12299ca76840784088571f4e216dc8a5a17e87cac1a4006e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=2116ee5c7bc84de6ce90a9621be348635500ecbb469d22bc51e9cfb651e4716f
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=2116ee5c7bc84de6ce90a9621be348635500ecbb469d22bc51e9cfb651e4716f"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=72e2d8786408406b12299ca76840784088571f4e216dc8a5a17e87cac1a4006e
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=72e2d8786408406b12299ca76840784088571f4e216dc8a5a17e87cac1a4006e"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_HD1_BTS%2FWDVLive%2F*~hmac%3D1122ee09fed1e3a9e13486137e3b521e7f50be2ba0885b37472c78579c16d691
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_HD1_BTS%2FWDVLive%2F*~hmac%3Dfd3ab1a5dccaaa51717fec9d855fda5e9999f53651dd0a5909466cf5cb9fa648
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=1122ee09fed1e3a9e13486137e3b521e7f50be2ba0885b37472c78579c16d691
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=1122ee09fed1e3a9e13486137e3b521e7f50be2ba0885b37472c78579c16d691"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=fd3ab1a5dccaaa51717fec9d855fda5e9999f53651dd0a5909466cf5cb9fa648
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=fd3ab1a5dccaaa51717fec9d855fda5e9999f53651dd0a5909466cf5cb9fa648"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1142" tvg-name="Star Sports 1" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_1_BTS%2FWDVLive%2F*~hmac%3D13b239d1ecef10a74cd39edb6725c6be6e2942dc6bfa7410073b7723aa119b9a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_1_BTS%2FWDVLive%2F*~hmac%3D645a01b6cec8a2acf362e2a458dfe41892792c548ee44d16aa592775be2092d7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=13b239d1ecef10a74cd39edb6725c6be6e2942dc6bfa7410073b7723aa119b9a
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=13b239d1ecef10a74cd39edb6725c6be6e2942dc6bfa7410073b7723aa119b9a"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=645a01b6cec8a2acf362e2a458dfe41892792c548ee44d16aa592775be2092d7
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=645a01b6cec8a2acf362e2a458dfe41892792c548ee44d16aa592775be2092d7"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_HD1_Hindi_BTS%2FWDVLive%2F*~hmac%3D24f6d945088674971ff2c1f91fb83784fcb37f09fef04aa55e6425bd47c5e9d3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_HD1_Hindi_BTS%2FWDVLive%2F*~hmac%3D8a45357b0e7d5e0e3776734901fa52d6c7c9e5285fd55b5decf69e5dceb45eac
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=24f6d945088674971ff2c1f91fb83784fcb37f09fef04aa55e6425bd47c5e9d3
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=24f6d945088674971ff2c1f91fb83784fcb37f09fef04aa55e6425bd47c5e9d3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=8a45357b0e7d5e0e3776734901fa52d6c7c9e5285fd55b5decf69e5dceb45eac
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=8a45357b0e7d5e0e3776734901fa52d6c7c9e5285fd55b5decf69e5dceb45eac"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_1_Hindi_BTS%2FWDVLive%2F*~hmac%3D3362b8ce4f8cb3a96c91745c449614bacc9fa23e089113e90e7e6c9dd2aee4e1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_1_Hindi_BTS%2FWDVLive%2F*~hmac%3Dde4b9bf718544dd8ad38fce7be4c4f5e99fea63709b7b67f1fa6907cc26ee00a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=3362b8ce4f8cb3a96c91745c449614bacc9fa23e089113e90e7e6c9dd2aee4e1
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=3362b8ce4f8cb3a96c91745c449614bacc9fa23e089113e90e7e6c9dd2aee4e1"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=de4b9bf718544dd8ad38fce7be4c4f5e99fea63709b7b67f1fa6907cc26ee00a
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=de4b9bf718544dd8ad38fce7be4c4f5e99fea63709b7b67f1fa6907cc26ee00a"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_HD2_BTS%2FWDVLive%2F*~hmac%3D8b15db27d6ca8e62e34f29495deeed3958f8c56d0b565b6fdeded54bba7594a3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_HD2_BTS%2FWDVLive%2F*~hmac%3D0510ae316139ce6e6fbe3352cc5320d8a08c0d8bbff849fff97a70ae0b1b6e9b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=8b15db27d6ca8e62e34f29495deeed3958f8c56d0b565b6fdeded54bba7594a3
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=8b15db27d6ca8e62e34f29495deeed3958f8c56d0b565b6fdeded54bba7594a3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=0510ae316139ce6e6fbe3352cc5320d8a08c0d8bbff849fff97a70ae0b1b6e9b
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=0510ae316139ce6e6fbe3352cc5320d8a08c0d8bbff849fff97a70ae0b1b6e9b"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1141" tvg-name="Star Sports 2" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_2_BTS%2FWDVLive%2F*~hmac%3Df9fd557acf13bb5cee200e716361905c024c6cbf0ebdae430ca25d59ced30e90
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStar_Sports_2_BTS%2FWDVLive%2F*~hmac%3D63ab1ad214f57188b794e418627065c9a690b6de5fa1dd8fc67e81ed78448361
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=f9fd557acf13bb5cee200e716361905c024c6cbf0ebdae430ca25d59ced30e90
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=f9fd557acf13bb5cee200e716361905c024c6cbf0ebdae430ca25d59ced30e90"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=63ab1ad214f57188b794e418627065c9a690b6de5fa1dd8fc67e81ed78448361
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=63ab1ad214f57188b794e418627065c9a690b6de5fa1dd8fc67e81ed78448361"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Hindi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486516~exp%3D1789508116~acl%3D%2Fbpk-tv%2FStarSportsHD2Hin_BTS%2FWDVLive%2F*~hmac%3D79db64089502fc213505eb97bacec30c06101956702638624e487686f3827a02
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497617~exp%3D1789519217~acl%3D%2Fbpk-tv%2FStarSportsHD2Hin_BTS%2FWDVLive%2F*~hmac%3Ddc343b570d71adfc3ef60fc90523db02684da88786fac44ab64b58d9425b5501
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486516~exp=1789508116~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=79db64089502fc213505eb97bacec30c06101956702638624e487686f3827a02
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486516~exp=1789508116~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=79db64089502fc213505eb97bacec30c06101956702638624e487686f3827a02"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497617~exp=1789519217~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=dc343b570d71adfc3ef60fc90523db02684da88786fac44ab64b58d9425b5501
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497617~exp=1789519217~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=dc343b570d71adfc3ef60fc90523db02684da88786fac44ab64b58d9425b5501"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1985" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStarSports2Hin_BTS%2FWDVLive%2F*~hmac%3D96f64872d4888ce9bce2f8d585c1c428880b91b72a7cff0b9aabd59d9a4d4df5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStarSports2Hin_BTS%2FWDVLive%2F*~hmac%3D6271cdfc07b4a6bbab0ddce3ee4ce69b9e1024a81ef1052c120b855df66cb777
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=96f64872d4888ce9bce2f8d585c1c428880b91b72a7cff0b9aabd59d9a4d4df5
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=96f64872d4888ce9bce2f8d585c1c428880b91b72a7cff0b9aabd59d9a4d4df5"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=6271cdfc07b4a6bbab0ddce3ee4ce69b9e1024a81ef1052c120b855df66cb777
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=6271cdfc07b4a6bbab0ddce3ee4ce69b9e1024a81ef1052c120b855df66cb777"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_3_BTS%2FWDVLive%2F*~hmac%3Dbfd63f718a9977d4fc810b22088d956859f20d35f0d65642614619a8f316f30b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_3_BTS%2FWDVLive%2F*~hmac%3D9f3b0b056d1395921f36c5747910f0df291425db5f9c2f73a67fb734ab7cdee2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=bfd63f718a9977d4fc810b22088d956859f20d35f0d65642614619a8f316f30b
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=bfd63f718a9977d4fc810b22088d956859f20d35f0d65642614619a8f316f30b"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=9f3b0b056d1395921f36c5747910f0df291425db5f9c2f73a67fb734ab7cdee2
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=9f3b0b056d1395921f36c5747910f0df291425db5f9c2f73a67fb734ab7cdee2"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3277" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Tamil HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_HD_BTS%2FWDVLive%2F*~hmac%3D57a28a6ea5d3e4d6cacd7b7ff200581b18294959dba083e2f26204b1687c9da4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_HD_BTS%2FWDVLive%2F*~hmac%3D3536a351a5eddbc4dbce4470189a1cffec576ae8e2a20783e1c776f7531b7b6d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=57a28a6ea5d3e4d6cacd7b7ff200581b18294959dba083e2f26204b1687c9da4
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=57a28a6ea5d3e4d6cacd7b7ff200581b18294959dba083e2f26204b1687c9da4"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=3536a351a5eddbc4dbce4470189a1cffec576ae8e2a20783e1c776f7531b7b6d
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=3536a351a5eddbc4dbce4470189a1cffec576ae8e2a20783e1c776f7531b7b6d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1124" tvg-name="Star Sports 1 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_BTS%2FWDVLive%2F*~hmac%3D118e6b818b4382cc249bfd856c79b38a8f81a42a725783ceb8409cb912856417
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_BTS%2FWDVLive%2F*~hmac%3Da7c7d5466f3ee375758197f2892c2b8ce5a5b7505a53aa5034d31e6f4060f04b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=118e6b818b4382cc249bfd856c79b38a8f81a42a725783ceb8409cb912856417
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=118e6b818b4382cc249bfd856c79b38a8f81a42a725783ceb8409cb912856417"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=a7c7d5466f3ee375758197f2892c2b8ce5a5b7505a53aa5034d31e6f4060f04b
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=a7c7d5466f3ee375758197f2892c2b8ce5a5b7505a53aa5034d31e6f4060f04b"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3278" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Telugu HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_HD_BTS%2FWDVLive%2F*~hmac%3D4cc65d3ed83b01b534b07bee3d821d393047a41f945dc8f64ea751c19d0de4a2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_HD_BTS%2FWDVLive%2F*~hmac%3D9697a3d33abeda2a5df83cf484f60cd0514fffa081dfc5f30228432b4ad9c2c9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=4cc65d3ed83b01b534b07bee3d821d393047a41f945dc8f64ea751c19d0de4a2
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=4cc65d3ed83b01b534b07bee3d821d393047a41f945dc8f64ea751c19d0de4a2"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=9697a3d33abeda2a5df83cf484f60cd0514fffa081dfc5f30228432b4ad9c2c9
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=9697a3d33abeda2a5df83cf484f60cd0514fffa081dfc5f30228432b4ad9c2c9"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1651" tvg-name="Star Sports 1 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Telugu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_BTS%2FWDVLive%2F*~hmac%3De4cdbe81e235e77d5c152497604d8fb3b56551af87e99c88ee52f2f4d60b5531
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_BTS%2FWDVLive%2F*~hmac%3D34f7e5c31900bfddc9af43b5910e9f13b302449d08f10bdba0aa6f421dc8779a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=e4cdbe81e235e77d5c152497604d8fb3b56551af87e99c88ee52f2f4d60b5531
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=e4cdbe81e235e77d5c152497604d8fb3b56551af87e99c88ee52f2f4d60b5531"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=34f7e5c31900bfddc9af43b5910e9f13b302449d08f10bdba0aa6f421dc8779a
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=34f7e5c31900bfddc9af43b5910e9f13b302449d08f10bdba0aa6f421dc8779a"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1650" tvg-name="Star Sports 1 Kannada" tvg-logo="https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 1 Kannada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports_1_Kannada_BTS%2FWDVLive%2F*~hmac%3Dffdd2c227850d02955f129d1631c3be18af7c85e1d1ae2d2e756c6d16150acd1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStar_Sports_1_Kannada_BTS%2FWDVLive%2F*~hmac%3D295fc033dee9f2a644afc8ce64275a5ea14b7a79cb6f51ff0a0278aa4aed3521
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=ffdd2c227850d02955f129d1631c3be18af7c85e1d1ae2d2e756c6d16150acd1
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=ffdd2c227850d02955f129d1631c3be18af7c85e1d1ae2d2e756c6d16150acd1"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=295fc033dee9f2a644afc8ce64275a5ea14b7a79cb6f51ff0a0278aa4aed3521
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=295fc033dee9f2a644afc8ce64275a5ea14b7a79cb6f51ff0a0278aa4aed3521"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1122" tvg-name="Star Sports 2 Kannada" tvg-logo="https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Kannada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486520~exp%3D1789508120~acl%3D%2Fbpk-tv%2FStar_Sports_2_Kannada_BTS%2FWDVLive%2F*~hmac%3D218cdaf9a7ad67ff529ca78fffd153ff3773339539ce793e5d2c0a548cc8b84c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497622~exp%3D1789519222~acl%3D%2Fbpk-tv%2FStar_Sports_2_Kannada_BTS%2FWDVLive%2F*~hmac%3Db56ae9dbd27f72c034f67c40cae3f978f6a3c5ee1d2bdf1da2e8d9d90f686bbe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=218cdaf9a7ad67ff529ca78fffd153ff3773339539ce793e5d2c0a548cc8b84c
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486520~exp=1789508120~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=218cdaf9a7ad67ff529ca78fffd153ff3773339539ce793e5d2c0a548cc8b84c"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=b56ae9dbd27f72c034f67c40cae3f978f6a3c5ee1d2bdf1da2e8d9d90f686bbe
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497622~exp=1789519222~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=b56ae9dbd27f72c034f67c40cae3f978f6a3c5ee1d2bdf1da2e8d9d90f686bbe"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Tamil HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports2_Tamil_HD_BTS%2FWDVLive%2F*~hmac%3D681bc9a6270b646fe0bc60f46073a60ea89c6e85bb008ba947fc0abb1bcb80ed
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStar_Sports2_Tamil_HD_BTS%2FWDVLive%2F*~hmac%3D4a0f5f16d758dbfe1429e1cd22af18f55e688a73de5a8487b164d0b6afd732c6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=681bc9a6270b646fe0bc60f46073a60ea89c6e85bb008ba947fc0abb1bcb80ed
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=681bc9a6270b646fe0bc60f46073a60ea89c6e85bb008ba947fc0abb1bcb80ed"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=4a0f5f16d758dbfe1429e1cd22af18f55e688a73de5a8487b164d0b6afd732c6
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=4a0f5f16d758dbfe1429e1cd22af18f55e688a73de5a8487b164d0b6afd732c6"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2853" tvg-name="Star Sports 2 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486522~exp%3D1789508122~acl%3D%2Fbpk-tv%2FStarSports2Tamil_BTS%2FWDVLive%2F*~hmac%3D20fa35ef2a474b4074d7b92c916dd3dc8a53ec8ba655988ffeed8842647cf2ba
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStarSports2Tamil_BTS%2FWDVLive%2F*~hmac%3D2ee5ef6f89d8737133dbde6ec07620a7603ea1c5d1fe86e6ebc898404b9dbae2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c1b335c4bb858a7a6ac5a883d898a09:6eeff4302a7d19befd43c6b7b5fac268
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486522~exp=1789508122~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=20fa35ef2a474b4074d7b92c916dd3dc8a53ec8ba655988ffeed8842647cf2ba
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486522~exp=1789508122~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=20fa35ef2a474b4074d7b92c916dd3dc8a53ec8ba655988ffeed8842647cf2ba"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=2ee5ef6f89d8737133dbde6ec07620a7603ea1c5d1fe86e6ebc898404b9dbae2
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=2ee5ef6f89d8737133dbde6ec07620a7603ea1c5d1fe86e6ebc898404b9dbae2"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3274" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Telugu HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486521~exp%3D1789508121~acl%3D%2Fbpk-tv%2FStar_Sports2_Telugu_HD_BTS%2FWDVLive%2F*~hmac%3D18b9b326cc9fe0b925473dfa49af41efb987730f623868d32a5c95bc9a4d45f9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStar_Sports2_Telugu_HD_BTS%2FWDVLive%2F*~hmac%3D52ef8c92fcfc463c680c929dd7ec3e606bcf97b46d7d1e940448f11e1777b9c8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=18b9b326cc9fe0b925473dfa49af41efb987730f623868d32a5c95bc9a4d45f9
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486521~exp=1789508121~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=18b9b326cc9fe0b925473dfa49af41efb987730f623868d32a5c95bc9a4d45f9"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=52ef8c92fcfc463c680c929dd7ec3e606bcf97b46d7d1e940448f11e1777b9c8
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=52ef8c92fcfc463c680c929dd7ec3e606bcf97b46d7d1e940448f11e1777b9c8"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2852" tvg-name="Star Sports 2 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports 2 Telugu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486522~exp%3D1789508122~acl%3D%2Fbpk-tv%2FStarSports2Telugu_BTS%2FWDVLive%2F*~hmac%3D84dc4c5d9c260000d6598491d6db38257d3ac87a3668db79e022b1f889b774c0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497623~exp%3D1789519223~acl%3D%2Fbpk-tv%2FStarSports2Telugu_BTS%2FWDVLive%2F*~hmac%3D596935e0a8eac1f9037162eee194aac301c542d85f4b4b86bb5e7e84a1561708
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486522~exp=1789508122~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=84dc4c5d9c260000d6598491d6db38257d3ac87a3668db79e022b1f889b774c0
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486522~exp=1789508122~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=84dc4c5d9c260000d6598491d6db38257d3ac87a3668db79e022b1f889b774c0"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=596935e0a8eac1f9037162eee194aac301c542d85f4b4b86bb5e7e84a1561708
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497623~exp=1789519223~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=596935e0a8eac1f9037162eee194aac301c542d85f4b4b86bb5e7e84a1561708"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" tvg-category="Sports" tvg-language="hin" group-title="Jio TV+ | Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Star Sports Khel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789486516~exp%3D1789508116~acl%3D%2Fbpk-tv%2FStarSportsKhel_BTS%2FWDVLive%2F*~hmac%3Dc83b0e933fb0ed9566f60a0d1fe37ef05a69699a60607317470d9a755e4af5f2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1789497617~exp%3D1789519217~acl%3D%2Fbpk-tv%2FStarSportsKhel_BTS%2FWDVLive%2F*~hmac%3Dd5ccf8dfd3fd390d206424a31d3855fa2d582235bdc2699830f9de0feebabe29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1789486516~exp=1789508116~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=c83b0e933fb0ed9566f60a0d1fe37ef05a69699a60607317470d9a755e4af5f2
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789486516~exp=1789508116~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=c83b0e933fb0ed9566f60a0d1fe37ef05a69699a60607317470d9a755e4af5f2"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1789497617~exp=1789519217~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=d5ccf8dfd3fd390d206424a31d3855fa2d582235bdc2699830f9de0feebabe29
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1789497617~exp=1789519217~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=d5ccf8dfd3fd390d206424a31d3855fa2d582235bdc2699830f9de0feebabe29"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-name="STAR SPORTS 2 Hindi HD" tvg-logo="https://i.ibb.co/YBMBDWtd/SS2HD-HINDI.jpg" tvg-category="Sports" group-title="JioHotstar" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png", STAR SPORTS 2 Hindi HD
