@@ -5,8 +5,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1789758500~exp=1789780100~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=f3366b85ff2cdf584229e090ebf08a2a3048f2d14a58c1b7731a447c04809e7c","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789758500~exp=1789780100~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=f3366b85ff2cdf584229e090ebf08a2a3048f2d14a58c1b7731a447c04809e7c
+#EXTHTTP:{"cookie":"__hdnea__=st=1789780129~exp=1789801729~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=c24396f4effd51da3c7b78514b0e3845bb72bc086efe5ae20e6ae7299baf6f41","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789780129~exp=1789801729~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=c24396f4effd51da3c7b78514b0e3845bb72bc086efe5ae20e6ae7299baf6f41
 
 #EXTINF:-1 tvg-id="1123" tvg-name="Star Sports Select 1" tvg-logo="https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg" group-title="Sports",Star Sports Select 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -23,8 +23,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1789758503~exp=1789780103~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=e9d4c7db4383de241e8c75e5ad743f70e63eb2656fcb3d94fc48cb2292e7423e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789758503~exp=1789780103~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=e9d4c7db4383de241e8c75e5ad743f70e63eb2656fcb3d94fc48cb2292e7423e
+#EXTHTTP:{"cookie":"__hdnea__=st=1789780159~exp=1789801759~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=fbbe1cb538a6f5b57a368a1cbf12815f44087f37f32d23bdd6c0ffd52f6795de","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789780159~exp=1789801759~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=fbbe1cb538a6f5b57a368a1cbf12815f44087f37f32d23bdd6c0ffd52f6795de
 
 #EXTINF:-1 tvg-id="1114" tvg-name="Star Sports Select 2" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg" group-title="Sports",Star Sports Select 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -59,8 +59,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|User
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1789756274~exp=1789777874~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=70693d28534dd2a39f3d49b458076eb5def2deca3912192d163f58944dad277e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789756274~exp=1789777874~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=70693d28534dd2a39f3d49b458076eb5def2deca3912192d163f58944dad277e
+#EXTHTTP:{"cookie":"__hdnea__=st=1789777911~exp=1789799511~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=680142bd0f362e29f23ad22a0c8678fcb0e9ef3fe4fd7e7af34951368d86f83a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789777911~exp=1789799511~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=680142bd0f362e29f23ad22a0c8678fcb0e9ef3fe4fd7e7af34951368d86f83a
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi
 #KODIPROP:inputstream=inputstream.adaptive
@@ -68,8 +68,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1789758500~exp=1789780100~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=c159f4639d509b4ae70171e2c5af4d877b31a06eac4091a171707c8f077b8d48","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789758500~exp=1789780100~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=c159f4639d509b4ae70171e2c5af4d877b31a06eac4091a171707c8f077b8d48
+#EXTHTTP:{"cookie":"__hdnea__=st=1789780128~exp=1789801728~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=cc8b1ba13120c44e3e34a12a79d3f94f67234213dee141dba12dd82994ab07e4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1789780128~exp=1789801728~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=cc8b1ba13120c44e3e34a12a79d3f94f67234213dee141dba12dd82994ab07e4
 
 #EXTINF:-1 tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="Sports",Star Sports 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
