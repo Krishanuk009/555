@@ -59,8 +59,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|User
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793118484~exp=1793140084~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=04533eb05c9e352e8d20f466864a7a95a1d98591b92ca11f5bc40ae88574f667","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1793118484~exp=1793140084~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=04533eb05c9e352e8d20f466864a7a95a1d98591b92ca11f5bc40ae88574f667
+#EXTHTTP:{"cookie":"__hdnea__=st=1793140135~exp=1793161735~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=215bacb2796755e09a06fcea1db7bc87f9b78430564f58c448b515e510bd3ea1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1793140135~exp=1793161735~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=215bacb2796755e09a06fcea1db7bc87f9b78430564f58c448b515e510bd3ea1
 
 #EXTINF:-1 tvg-id="362" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="Sports",Star Sports 1 Hindi
 #KODIPROP:inputstream=inputstream.adaptive
@@ -77,8 +77,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793119724~exp=1793141324~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=0d2988af05edb8ad42f657c74ddb4a56bef4fd3c14b45a69e6577dfdc22f42ce","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1793119724~exp=1793141324~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=0d2988af05edb8ad42f657c74ddb4a56bef4fd3c14b45a69e6577dfdc22f42ce
+#EXTHTTP:{"cookie":"__hdnea__=st=1793141371~exp=1793162971~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=066eebeb9b7ce0360ec6097296d7b6163b7337f781f76efa9779e20318b0b3fe","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1793141371~exp=1793162971~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=066eebeb9b7ce0360ec6097296d7b6163b7337f781f76efa9779e20318b0b3fe
 
 #EXTINF:-1 tvg-id="1141" tvg-name="Star Sports 2" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" group-title="Sports",Star Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
